@@ -1,3 +1,20 @@
+# ASP.NET Core
+bin/
+obj/
+*.db
+*.db-journal
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+# Node.js
+node_modules/
+.next/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
 # Logs
 logs
 *.log
